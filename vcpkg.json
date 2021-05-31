@@ -1,0 +1,7 @@
+{
+	"name": "asciify-video",
+	"version": "1.0",
+	"dependencies": [
+		"opencv4"
+	]
+}
